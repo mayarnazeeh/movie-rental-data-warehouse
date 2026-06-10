@@ -1,0 +1,4 @@
+CREATE DATABASE IF NOT EXISTS movie_rental_source;
+CREATE DATABASE IF NOT EXISTS movie_rental_dw;
+
+SHOW DATABASES;
